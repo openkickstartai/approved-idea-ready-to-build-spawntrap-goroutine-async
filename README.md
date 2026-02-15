@@ -1,0 +1,1 @@
+# approved-idea-ready-to-build-spawntrap-goroutine-async
